@@ -15,6 +15,7 @@ The protocol in the lookup table is assumed to be either tcp, udp, or icmp.
 No advanced libraries (e.g., Pandas, Spark) are used in this script; it relies solely on Python’s standard libraries (csv and collections).
 Technologies Used
 Python: The script is written in Python and uses standard libraries without dependence on external libraries such as Pandas or PySpark.
+the program only supports default log format, not custom and the only version that is supported is 2. 
 
 
 **How to Run the Script**
