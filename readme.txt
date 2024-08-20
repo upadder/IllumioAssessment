@@ -1,9 +1,9 @@
-README for assesment
+README for assessment
 Project Overview
 This project contains a Python script for processing flow logs, specifically designed to parse and analyze log data based on predefined mappings in a lookup table. The script reads flow log data, applies tagging based on the destination port and protocol, and generates counts of each tag as well as each port/protocol combination found in the logs.
 
 Features
-Tag Assignment: Logs are tagged based on destination port and protocol using a lookup table.
+Tag Assignment: Logs are tagged based on the destination port and protocol using a lookup table.
 Count Aggregation: The script counts occurrences of each tag and port/protocol combination.
 Output Files: Results are written to a CSV file for easy viewing and analysis.
 Assumptions
